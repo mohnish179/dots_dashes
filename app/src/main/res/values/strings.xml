@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">c</string>
+    <string name="t1">Welcome to Dots and Boxes</string>
+    <string name="b1">4x4</string>
+    <string name="b2">5x5</string>
+    <string name="b3">6x6</string>
+    <string name="undo">undo</string>
+    <string name="choose_no_of_players">choose no. of players</string>
+    <string name="players2">2 Players</string>
+    <string name="players3">3 Players</string>
+    <string name="players4">4 Players</string>
+    <string name="play">Play!!</string>
+    <string name="green_start">Green start</string>
+    <string name="score">score</string>
+    <string name="todo">TODO</string>
+
+</resources>
